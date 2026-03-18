@@ -1,0 +1,65 @@
+@import url('https://fonts.google.com/share?selection.family=Tilt+Neon');
+@import url('https://fonts.google.com/share?selection.family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900|Tilt+Neon');
+@import url('https://fonts.google.com/share?selection.family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900|Lobster+Two:ital,wght@0,400;0,700;1,400;1,700|Tilt+Neon');
+
+body {
+    background-color: #A5A692;
+    font-size: 1rem;
+}
+
+h1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+}
+
+h2 {
+    color: #025E73;
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: justify;
+}
+.autor {
+    background-color: #BFB78F;
+    text-align: right;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+.separador {
+    text-align: center;
+}
+
+.tilt-neon {
+    font-family: "Tilt Neon", sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.lato {
+    font-family: "Lato", sans-serif;
+}
+
+.p1.lato {
+    font-weight: 700;
+}
+
+.p2.lato {
+    font-weight: 900;
+}
+
+.lobster-two {
+    font-family: 'Lobster Two', sans-serif;
+}
+
+.p3.lobster-two {
+    font-style: oblique 10deg;
+}
+
+.p4.lobster-two {
+    font-style: oblique 20deg;
+}
