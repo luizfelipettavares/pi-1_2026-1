@@ -1,0 +1,25 @@
+body {
+    background-color: #A5A692;
+}
+
+h1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h2 {
+    color: #025E73;
+}
+
+p {
+    text-align: justify;
+}
+.autor {
+    background-color: #BFB78F;
+    text-align: right;
+}
+
+.separador {
+    text-align: center;
+}
